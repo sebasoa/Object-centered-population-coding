@@ -13,5 +13,5 @@ with an object placed in different locations (Object and Object Moved in our pap
 The distance decoder requires having recorded position- and spike data from two trials. In our paper, we record
 an Empty trial and an Object trial and assess the decoding accuracy at different distances from the object. 
 
-Some functions, including "calculateRateMap" and other funtions necessary to run it, are taken from 
+Some functions, including "calculateRateMap" and other functions necessary to run it, are taken from 
 Behavioural Neurology Toolbox, (c) Vadim Frolov 2018. 
