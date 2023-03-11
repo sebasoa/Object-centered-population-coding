@@ -3,7 +3,7 @@
 This repository contains functions necessary to perform some analyses from the paper "Object-centered population coding
 in CA1 of the hippocampus", by Nagelhus et al. 2023. 
 
-The most important functions are <objectTuningScore> and <distanceDecoder, responsible for calculating
+The most important functions are "objectTuningScore" and "distanceDecoder", responsible for calculating
 the object-tuning score and performing the distance decoding, respectively. Please see each function for explanations
 of how to use them. 
 
